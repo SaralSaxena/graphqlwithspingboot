@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.address</OriginalElement>
+  <nodes>
+    <node x="194.5" y="10.5">f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.subject</node>
+    <node x="-37.0" y="-0.5">f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.student</node>
+    <node x="-27.5" y="261.5">f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.address</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.student" target="f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.address">
+      <point x="0.0" y="80.5" />
+      <point x="0.0" y="-58.5" />
+    </edge>
+    <edge source="f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.subject" target="f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.student">
+      <point x="-85.5" y="-0.0" />
+      <point x="77.0" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Directed Orthogonal" zoom="1.0" x="164.5" y="189.0" />
+  <SelectedNodes>
+    <node>f6e768ec-5243-4e84-b3b3-59d4cdcbb977.TABLE:spring.address</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
